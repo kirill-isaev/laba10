@@ -12,12 +12,12 @@ $ open https://github.com/ruslo/hunter
 - [x] 2. Сгенирировать токен для доступа к сервису **GitHub** с правами **repo**
 - [x] 3. Выполнить инструкцию учебного материала
 - [x] 4. Ознакомиться со ссылками учебного материала
-- [x] 5. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 $ export GITHUB_TOKEN=SK
 ```
 
